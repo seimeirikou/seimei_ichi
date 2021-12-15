@@ -1,0 +1,89 @@
+body{
+    font-family:"Avenir Next";
+}
+
+h1{
+    text-align: center;
+    font-family:"HGS創英角ｺﾞｼｯｸUB";
+
+}
+
+img{
+    width:310px;
+    height:200px;
+}
+
+.header{
+     background-color:;
+     width:1000px;
+     height:50px;
+}
+
+.main{
+    width:1000px;
+    height:450px;
+}
+
+.america-logo{
+    font-family:"";
+    font-size:24px;
+    padding-top:20px;
+    padding-bottom:10px;
+    padding-left:30px;
+}
+
+.america-logo span{
+    color:rgb(63, 134, 240);
+    font-family:"ヒラギノ角ゴ Std";
+}
+
+.america-item{
+    float:left;
+    padding: 10px;
+}
+
+.A{
+   font-size:18px;
+ }
+
+.B{
+    list-style:none;
+}
+
+.C{
+    list-style:none;
+}
+
+.D{
+    list-style:none;
+}
+
+.E{
+    width:780px;
+    font-size:18px;
+    padding-bottom:10px;
+}
+
+.F{
+    padding-left:18px;
+}
+
+.G{
+    list-style:none;
+    padding-left:20px;
+}
+
+.footer{
+    height:500px;
+}
+.eu-logo{
+    font-family:"";
+    font-size:24px;
+    padding-bottom:10px;
+    padding-left:30px;
+}
+
+.eu-logo span{
+    color:rgb(63, 134, 240);
+    font-family:"ヒラギノ角ゴ Std";
+}
