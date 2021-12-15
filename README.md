@@ -1,0 +1,1 @@
+# seimei_ichi
